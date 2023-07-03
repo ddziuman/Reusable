@@ -13,3 +13,5 @@ const persons = [
 for (const person of persons) {
   welcome(person);
 }
+
+// + Object.keys(), Object.values(), Object.entries() iterators
